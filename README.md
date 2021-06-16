@@ -8,6 +8,6 @@ This repo holds the codebase for a staff discount tracker. It records the sale, 
 
 * HTML5
 * CSS
-* [Material-Ui.]https://material-ui.com/)
+* [Material-Ui](https://material-ui.com/)
 * This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
