@@ -12,3 +12,7 @@ function ImageUploadSection() {
 }
 
 export default ImageUploadSection;
+
+// React Tesseract OCR Tutorial
+// https://javascript.plainenglish.io/react-tesseract-ocr-tutorial-d72bb04b5094
+//https://github.com/eren23/react-tesseract-ocr-starter/blob/main/src/scripts/imageLoader/imageLoader.js
